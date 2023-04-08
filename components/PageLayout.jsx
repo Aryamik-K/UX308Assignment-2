@@ -6,7 +6,7 @@ import './PageLayout.css';
 export default function({ children }) {
   return (
     <React.StrictMode>
-      <div className="bgimg w3-display-container w3-animate-opacity w3-text-white">
+      <div className="w3-display-container w3-animate-opacity">
         {children}
       </div>
     </React.StrictMode>

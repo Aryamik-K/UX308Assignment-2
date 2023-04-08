@@ -22,5 +22,8 @@
     "vite-plugin-ssr": "^0.4.98",
     "vitest": "^0.29.3",
     "w3-css": "^4.1.0"
+  },
+  "dependencies": {
+    "survey-react-ui": "^1.9.81"
   }
 }
